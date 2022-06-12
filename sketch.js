@@ -3,7 +3,7 @@
 //slit scan images are created by exposing film as it slides past a slit-shaped aperture. In the digital realm, thin slices are extracted 
 // from a sequence of video frames, and concatenated into the creation of a new image.
 //Granulation of a 3D printer's operating sound is influenced by the pixel colours at the current scan point.
-/ Concept and programming: Marlon Barrios Solano 
+//Concept and programming: Marlon Barrios Solano 
 // interactive audio programming: Cristian Vogel ( @neverenginelabs )
 
 
