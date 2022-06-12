@@ -4,9 +4,7 @@
 // from a sequence of video frames, and concatenated into the creation of a new image.
 //Granulation of a 3D printer's operating sound is influenced by the pixel colours at the current scan point.
 //Concept and programming: Marlon Barrios Solano 
-// interactive audio programming: Cristian Vogel ( @neverenginelabs )
-
-
+//interactive audio programming: Cristian Vogel ( @neverenginelabs )
 
 var video, sample;
 let x = 0, y = 0;
