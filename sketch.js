@@ -1,7 +1,12 @@
-// Soft-space #2: Slitscan imaging techniques are used to create static images of time-based phenomena. In traditional film photography, slit scan images are created by exposing film as it slides past a slit-shaped aperture. In the digital realm, thin slices are extracted from a sequence of video frames, and concatenated into a new image.
-// Granulation of a 3D printer's operating sound is influences by the pixel colours at the current scan point
-// concept and programming: Marlon Barrios Solano
+// Soft-space #2: Horizontal Slitscan.
+// SlitScan are imaging techniques are used to create static images of time-based phenomena. In traditional film photography, 
+//slit scan images are created by exposing film as it slides past a slit-shaped aperture. In the digital realm, thin slices are extracted 
+// from a sequence of video frames, and concatenated into the creation of a new image.
+//Granulation of a 3D printer's operating sound is influenced by the pixel colours at the current scan point.
+/ Concept and programming: Marlon Barrios Solano 
 // interactive audio programming: Cristian Vogel ( @neverenginelabs )
+
+
 
 var video, sample;
 let x = 0, y = 0;
